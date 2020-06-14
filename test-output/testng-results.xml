@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35354" started-at="2019-11-28T04:09:06Z" finished-at="2019-11-28T04:09:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35354" started-at="2019-11-28T04:09:06Z" finished-at="2019-11-28T04:09:41Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@8bd1b6a]" name="setup" is-config="true" duration-ms="25970" started-at="2019-11-28T09:39:06Z" finished-at="2019-11-28T09:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getTestData()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@8bd1b6a]" name="getTestData" duration-ms="9360" started-at="2019-11-28T09:39:32Z" finished-at="2019-11-28T09:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-28T09:39:41Z" finished-at="2019-11-28T09:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
